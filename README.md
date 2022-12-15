@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm yisibell.
+I'm yisibell, a frond-end engineer!
