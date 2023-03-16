@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm yisibell, a frond-end engineer!
+
+### Template projects
+
+- A nuxt(3) app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter)
+- A nuxt(2) app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter)
+- A Next(12) app project template: [next-app-starter](https://github.com/yisibell/next-app-starter)
