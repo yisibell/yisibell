@@ -29,3 +29,11 @@ I'm yisibell, a frond-end engineer!
 - A canvas watermark builder: [mymark](https://github.com/yisibell/mymark)
 - A tiny pagination function util: [pagein](https://github.com/yisibell/pagein)
 - A tiny websocket client: [myws](https://github.com/yisibell/myws)
+
+### Vue plugins
+
+- A composition wrapper for vue(2), vue-router(3) and vuex(3): [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper)
+- A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image)
+- A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon)
+
+
