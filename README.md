@@ -36,4 +36,15 @@ I'm yisibell, a frond-end engineer!
 - A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image)
 - A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon)
 
+### Vite plugins
 
+- A vite plugin which can transform svg icon to vue component. Support custom svg color and size: [vite-plugin-svg4vue](https://github.com/yisibell/vite-plugin-svg4vue)
+
+### Nuxt modules
+
+- A module for Nuxt 3 that allows you to use your own SVG icons as a component, url and raw text: [nuxt-svg-icons](https://github.com/yisibell/nuxt-svg-icons)
+- A http proxy module for nuxt(3) powered by h3-proxy: [nuxt-proxy-request](https://github.com/yisibell/nuxt-proxy-request)
+
+### H3 event handler
+
+- A http proxy event handler for h3, using proxyRequest: [h3-proxy](https://github.com/yisibell/h3-proxy)
