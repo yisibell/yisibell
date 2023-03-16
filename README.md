@@ -26,3 +26,6 @@ I'm yisibell, a frond-end engineer!
 ### Javascript Utils
 
 - A tiny tool that can make img area responsive: [img-map-area](https://github.com/yisibell/img-map-area)
+- A canvas watermark builder: [mymark](https://github.com/yisibell/mymark)
+- A tiny pagination function util: [pagein](https://github.com/yisibell/pagein)
+- A tiny websocket client: [myws](https://github.com/yisibell/myws)
