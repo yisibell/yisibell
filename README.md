@@ -24,6 +24,7 @@ I'm yisibell, a frond-end engineer!
 - A Next(12) app project template: [next-app-starter](https://github.com/yisibell/next-app-starter)
 - A Notification Service API built by **NestJS**: [my-notification-service](https://github.com/yisibell/my-notification-service)
 - A universal app starter based on Expo + React Native + Typescript + Native base UI: [expo-app-starter](https://github.com/yisibell/expo-app-starter)
+- A Flutter Simple App template: [flutter-app-starter](https://github.com/yisibell/flutter-app-starter)
 
 
 ### Javascript Utils
