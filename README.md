@@ -55,7 +55,7 @@ I'm yisibell, a frond-end engineer!
 
 - A http proxy event handler for h3, using proxyRequest: [h3-proxy](https://github.com/yisibell/h3-proxy)
 
-### SVGO plugins
+### SVG optimize
 
 - A collection of SVGO plug-ins: [svgo-extra](https://github.com/yisibell/svgo-extra)
 
