@@ -53,10 +53,10 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 ### Nuxt modules
 
-- A module for Nuxt(3) that allows you to use your own SVG icons as a component, url and raw text: [nuxt-svg-icons](https://github.com/yisibell/nuxt-svg-icons)
-- A http proxy module for nuxt(3) powered by h3-proxy: [nuxt-proxy-request](https://github.com/yisibell/nuxt-proxy-request)
-- A nuxt(2) module to persist vuex state with cookie: [nuxt-persiststate-with-cookie](https://github.com/yisibell/nuxt-persiststate-with-cookie)
-- A nuxt(2) module for using svg sprite icon: [nuxt-symbol-icons](https://github.com/yisibell/nuxt-symbol-icons)
+- A module for **Nuxt(3)** that allows you to use your own SVG icons as a component, url and raw text: [nuxt-svg-icons](https://github.com/yisibell/nuxt-svg-icons)
+- A http proxy module for **Nuxt(3)** powered by h3-proxy: [nuxt-proxy-request](https://github.com/yisibell/nuxt-proxy-request)
+- A **Nuxt(2)** module to persist vuex state with cookie: [nuxt-persiststate-with-cookie](https://github.com/yisibell/nuxt-persiststate-with-cookie)
+- A **Nuxt(2)** module for using svg sprite icon: [nuxt-symbol-icons](https://github.com/yisibell/nuxt-symbol-icons)
 
 ### H3 event handler
 
