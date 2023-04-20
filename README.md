@@ -31,6 +31,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 - :heavy_check_mark: A Notification Service API built by **NestJS**: [my-notification-service](https://github.com/yisibell/my-notification-service)
 - :heavy_check_mark: A universal app starter based on Expo + React Native + Typescript + Native base UI: [expo-app-starter](https://github.com/yisibell/expo-app-starter)
 - :heavy_check_mark: A Flutter Simple App template: [flutter-app-starter](https://github.com/yisibell/flutter-app-starter)
+- :heavy_check_mark: A blog template built by **vuepress**: [aidol](https://github.com/yisibell/aidol)
 - 🚧 A admin template built by vue(3) + element-plus + vite(4): [vue3-admin-starter](https://github.com/yisibell/vue3-admin-starter)
 
 
