@@ -25,8 +25,8 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 ### Template projects
 
-- :heavy_check_mark: A **nuxt(3)** app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter)
-- :heavy_check_mark: A **nuxt(2)** app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter)
+- :heavy_check_mark: A **Nuxt(3)** app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter)
+- :heavy_check_mark: A **Nuxt(2)** app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter)
 - :heavy_check_mark: A **Next(12)** app project template: [next-app-starter](https://github.com/yisibell/next-app-starter)
 - :heavy_check_mark: A Notification Service API built by **NestJS**: [my-notification-service](https://github.com/yisibell/my-notification-service)
 - :heavy_check_mark: A universal app starter based on Expo + React Native + Typescript + Native base UI: [expo-app-starter](https://github.com/yisibell/expo-app-starter)
