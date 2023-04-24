@@ -25,9 +25,9 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 ### Template projects
 
-- :heavy_check_mark: A nuxt(3) app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter)
-- :heavy_check_mark: A nuxt(2) app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter)
-- :heavy_check_mark: A Next(12) app project template: [next-app-starter](https://github.com/yisibell/next-app-starter)
+- :heavy_check_mark: A **nuxt(3)** app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter)
+- :heavy_check_mark: A **nuxt(2)** app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter)
+- :heavy_check_mark: A **Next(12)** app project template: [next-app-starter](https://github.com/yisibell/next-app-starter)
 - :heavy_check_mark: A Notification Service API built by **NestJS**: [my-notification-service](https://github.com/yisibell/my-notification-service)
 - :heavy_check_mark: A universal app starter based on Expo + React Native + Typescript + Native base UI: [expo-app-starter](https://github.com/yisibell/expo-app-starter)
 - :heavy_check_mark: A Flutter Simple App template: [flutter-app-starter](https://github.com/yisibell/flutter-app-starter)
@@ -44,7 +44,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 ### Vue plugins
 
-- A composition wrapper for vue(2), vue-router(3) and vuex(3): [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper)
+- A composition wrapper for **vue(2)**, **vue-router(3)** and **vuex(3)**: [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper)
 - A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image)
 - A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon)
 - 🛠️ A useful toolkit of Vue composition API functions: [vue-use-toolkit](https://github.com/yisibell/vue-use-toolkit)
