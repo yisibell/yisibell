@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-counter.glitch.me/yisibell/count.svg) visitor ❤❤❤!
 
 
-- 🚀 I use daily: ![](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- 🚀 I use daily: ![](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
+![](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
+![](https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&logo=nuxt.js&logoColor=4FC08D) 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![](https://img.shields.io/badge/Next-20232A?style=for-the-badge&logo=next.js&logoColor=61DAFB) 
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
 ![yisibell's GitHub stats](https://github-readme-stats.vercel.app/api?username=yisibell&show_icons=true&theme=tokyonight)
