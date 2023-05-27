@@ -47,7 +47,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 - A canvas watermark builder: [mymark](https://github.com/yisibell/mymark)
 - A tiny pagination function util: [pagein](https://github.com/yisibell/pagein)
 - A tiny websocket client: [myws](https://github.com/yisibell/myws)
-- A progress bar for web, Featuring realistic trickle animations to convince your users that something is happening!: [trickling](https://github.com/yisibell/trickling)
+- A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening!: [trickling](https://github.com/yisibell/trickling)
 
 ### Vue plugins
 
