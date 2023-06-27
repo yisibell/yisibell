@@ -41,7 +41,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 - :heavy_check_mark: A blog template built by **vuepress**: [aidol](https://github.com/yisibell/aidol)
 
 
-### Web libraries
+### JavaScript libraries
 
 - A tiny tool that can make img area responsive: [img-map-area](https://github.com/yisibell/img-map-area)
 - A canvas watermark builder: [mymark](https://github.com/yisibell/mymark)
