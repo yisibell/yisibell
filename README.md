@@ -31,50 +31,50 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 ### Template projects
 
-- 🚧 A admin template built by **vue(3)** + element-plus + vite(4): [vue3-admin-starter](https://github.com/yisibell/vue3-admin-starter)
-- :heavy_check_mark: A **Nuxt(3)** app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter)
-- :heavy_check_mark: A **Nuxt(2)** app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter)
-- :heavy_check_mark: A **Next(12)** app project template: [next-app-starter](https://github.com/yisibell/next-app-starter)
-- :heavy_check_mark: A Notification Service API built by **NestJS**: [my-notification-service](https://github.com/yisibell/my-notification-service)
-- :heavy_check_mark: A universal app starter based on **Expo** + React Native + Typescript + Native base UI: [expo-app-starter](https://github.com/yisibell/expo-app-starter)
-- :heavy_check_mark: A **Flutter** Simple App template: [flutter-app-starter](https://github.com/yisibell/flutter-app-starter)
-- :heavy_check_mark: A blog template built by **vuepress**: [aidol](https://github.com/yisibell/aidol)
+- 🚧 A admin template built by **vue(3)** + element-plus + vite(4): [vue3-admin-starter](https://github.com/yisibell/vue3-admin-starter) ![](https://img.shields.io/github/stars/yisibell/vue3-admin-starter?style=social)
+- :heavy_check_mark: A **Nuxt(3)** app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter) ![](https://img.shields.io/github/stars/yisibell/nuxt3-app-starter?style=social)
+- :heavy_check_mark: A **Nuxt(2)** app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter) ![](https://img.shields.io/github/stars/yisibell/nuxt-app-starter?style=social)
+- :heavy_check_mark: A **Next(12)** app project template: [next-app-starter](https://github.com/yisibell/next-app-starter) ![](https://img.shields.io/github/stars/yisibell/next-app-starter?style=social)
+- :heavy_check_mark: A Notification Service API built by **NestJS**: [my-notification-service](https://github.com/yisibell/my-notification-service) ![](https://img.shields.io/github/stars/yisibell/my-notification-service?style=social)
+- :heavy_check_mark: A universal app starter based on **Expo** + React Native + Typescript + Native base UI: [expo-app-starter](https://github.com/yisibell/expo-app-starter) ![](https://img.shields.io/github/stars/yisibell/expo-app-starter?style=social)
+- :heavy_check_mark: A **Flutter** Simple App template: [flutter-app-starter](https://github.com/yisibell/flutter-app-starter) ![](https://img.shields.io/github/stars/yisibell/flutter-app-starter?style=social)
+- :heavy_check_mark: A blog template built by **vuepress**: [aidol](https://github.com/yisibell/aidol) ![](https://img.shields.io/github/stars/yisibell/aidol?style=social)
 
 
 ### JavaScript libraries
 
-- A tiny tool that can make img area responsive: [img-map-area](https://github.com/yisibell/img-map-area)
-- A canvas watermark builder: [mymark](https://github.com/yisibell/mymark)
-- A tiny pagination function util: [pagein](https://github.com/yisibell/pagein)
-- A tiny websocket client: [myws](https://github.com/yisibell/myws)
-- A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening!: [trickling](https://github.com/yisibell/trickling)
+- A tiny tool that can make img area responsive: [img-map-area](https://github.com/yisibell/img-map-area) ![](https://img.shields.io/github/stars/yisibell/img-map-area?style=social)
+- A canvas watermark builder: [mymark](https://github.com/yisibell/mymark) ![](https://img.shields.io/github/stars/yisibell/mymark?style=social)
+- A tiny pagination function util: [pagein](https://github.com/yisibell/pagein) ![](https://img.shields.io/github/stars/yisibell/pagein?style=social)
+- A tiny websocket client: [myws](https://github.com/yisibell/myws) ![](https://img.shields.io/github/stars/yisibell/myws?style=social)
+- A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening!: [trickling](https://github.com/yisibell/trickling) ![](https://img.shields.io/github/stars/yisibell/trickling?style=social)
 
 ### Vue plugins
 
-- A composition wrapper for **vue(2)**, **vue-router(3)** and **vuex(3)**: [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper)
-- A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image)
-- A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon)
-- 🛠️ A useful toolkit of Vue composition API functions: [vue-use-toolkit](https://github.com/yisibell/vue-use-toolkit)
+- A composition wrapper for **vue(2)**, **vue-router(3)** and **vuex(3)**: [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper) ![](https://img.shields.io/github/stars/yisibell/vue-composition-wrapper?style=social)
+- A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image) ![](https://img.shields.io/github/stars/yisibell/vue-previewable-image?style=social)
+- A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon) ![](https://img.shields.io/github/stars/yisibell/vue-symbol-icon?style=social)
+- 🛠️ A useful toolkit of Vue composition API functions: [vue-use-toolkit](https://github.com/yisibell/vue-use-toolkit) ![](https://img.shields.io/github/stars/yisibell/vue-use-toolkit?style=social)
 
 ### Vite plugins
 
-- A vite plugin which can transform svg icon to vue component. Support custom svg color and size: [vite-plugin-svg4vue](https://github.com/yisibell/vite-plugin-svg4vue)
+- A vite plugin which can transform svg icon to vue component. Support custom svg color and size: [vite-plugin-svg4vue](https://github.com/yisibell/vite-plugin-svg4vue) ![](https://img.shields.io/github/stars/yisibell/vite-plugin-svg4vue?style=social)
 
 ### Nuxt modules
 
-- A module for **Nuxt(3)** that allows you to use your own SVG icons as a component, url and raw text: [nuxt-svg-icons](https://github.com/yisibell/nuxt-svg-icons)
-- A http proxy module for **Nuxt(3)** powered by h3-proxy: [nuxt-proxy-request](https://github.com/yisibell/nuxt-proxy-request)
-- A **Nuxt(2)** module to persist vuex state with cookie: [nuxt-persiststate-with-cookie](https://github.com/yisibell/nuxt-persiststate-with-cookie)
-- A **Nuxt(2)** module for using svg sprite icon: [nuxt-symbol-icons](https://github.com/yisibell/nuxt-symbol-icons)
+- A module for **Nuxt(3)** that allows you to use your own SVG icons as a component, url and raw text: [nuxt-svg-icons](https://github.com/yisibell/nuxt-svg-icons) ![](https://img.shields.io/github/stars/yisibell/nuxt-svg-icons?style=social)
+- A http proxy module for **Nuxt(3)** powered by h3-proxy: [nuxt-proxy-request](https://github.com/yisibell/nuxt-proxy-request) ![](https://img.shields.io/github/stars/yisibell/nuxt-proxy-request?style=social)
+- A **Nuxt(2)** module to persist vuex state with cookie: [nuxt-persiststate-with-cookie](https://github.com/yisibell/nuxt-persiststate-with-cookie) ![](https://img.shields.io/github/stars/yisibell/nuxt-persiststate-with-cookie?style=social)
+- A **Nuxt(2)** module for using svg sprite icon: [nuxt-symbol-icons](https://github.com/yisibell/nuxt-symbol-icons) ![](https://img.shields.io/github/stars/yisibell/nuxt-symbol-icons?style=social)
 
 ### H3 event handler
 
-- A http proxy event handler for h3, using proxyRequest: [h3-proxy](https://github.com/yisibell/h3-proxy)
+- A http proxy event handler for h3, using proxyRequest: [h3-proxy](https://github.com/yisibell/h3-proxy) ![](https://img.shields.io/github/stars/yisibell/h3-proxy?style=social)
 
 ### SVG optimize
 
-- A collection of SVGO plug-ins: [svgo-extra](https://github.com/yisibell/svgo-extra)
+- A collection of SVGO plug-ins: [svgo-extra](https://github.com/yisibell/svgo-extra) ![](https://img.shields.io/github/stars/yisibell/svgo-extra?style=social)
 
 ### CSS utility
 
-- A CSS toolkit class compiled by sass: [toolkitcss](https://github.com/yisibell/toolkitcss)
+- A CSS toolkit class compiled by sass: [toolkitcss](https://github.com/yisibell/toolkitcss) ![](https://img.shields.io/github/stars/yisibell/toolkitcss?style=social)
