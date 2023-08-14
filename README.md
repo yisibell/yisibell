@@ -50,6 +50,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 - A modern progress bar for web APP. Featuring realistic trickle animations to convince your users that something is happening!: [trickling](https://github.com/yisibell/trickling) ![](https://img.shields.io/github/stars/yisibell/trickling?style=social)
 -  A modern pagination bar library for web app: [paginationbar/paginationbar](https://github.com/paginationbar/paginationbar) ![](https://img.shields.io/github/stars/paginationbar/paginationbar?style=social)
 - A image enlarger library for web app: [vcjs-dev/enlarger](https://github.com/vcjs-dev/enlarger) ![](https://img.shields.io/github/stars/vcjs-dev/enlarger?style=social)
+- A star-score library for web app: [vcjs-dev/starscore](https://github.com/vcjs-dev/starscore) ![](https://img.shields.io/github/stars/vcjs-dev/starscore?style=social)
 
 ### Vue plugins
 
