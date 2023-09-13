@@ -31,7 +31,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 ### Template projects
 
-- 🚧 A admin template built by **vue(3)** + element-plus + vite(4): [vue3-admin-starter](https://github.com/yisibell/vue3-admin-starter) ![](https://img.shields.io/github/stars/yisibell/vue3-admin-starter?style=social)
+- :heavy_check_mark: A admin template built by **vue(3)** + element-plus + vite(4): [vue3-admin-starter](https://github.com/yisibell/vue3-admin-starter) ![](https://img.shields.io/github/stars/yisibell/vue3-admin-starter?style=social)
 - :heavy_check_mark: A **Nuxt(3)** app project template: [nuxt3-app-starter](https://github.com/yisibell/nuxt3-app-starter) ![](https://img.shields.io/github/stars/yisibell/nuxt3-app-starter?style=social)
 - :heavy_check_mark: A **Nuxt(2)** app project template: [nuxt-app-starter](https://github.com/yisibell/nuxt-app-starter) ![](https://img.shields.io/github/stars/yisibell/nuxt-app-starter?style=social)
 - :heavy_check_mark: A **Next(12)** app project template: [next-app-starter](https://github.com/yisibell/next-app-starter) ![](https://img.shields.io/github/stars/yisibell/next-app-starter?style=social)
