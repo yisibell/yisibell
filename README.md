@@ -59,7 +59,6 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 - A composition wrapper for **vue(2)**, **vue-router(3)** and **vuex(3)**: [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper) ![](https://img.shields.io/github/stars/yisibell/vue-composition-wrapper?style=social)
 - A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image) ![](https://img.shields.io/github/stars/yisibell/vue-previewable-image?style=social)
 - A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon) ![](https://img.shields.io/github/stars/yisibell/vue-symbol-icon?style=social)
-- 🛠️ A useful toolkit of Vue composition API functions: [vue-use-toolkit](https://github.com/yisibell/vue-use-toolkit) ![](https://img.shields.io/github/stars/yisibell/vue-use-toolkit?style=social)
 
 ### Vite plugins
 
