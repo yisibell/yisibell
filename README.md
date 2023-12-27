@@ -28,7 +28,7 @@ I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yisibell&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yisibell&theme=monokai&column=-1" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=yisibell&theme=flat&column=-1&margin-w=10" /></p>
 
 
 ### Template projects
