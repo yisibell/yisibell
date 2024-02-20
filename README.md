@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm yisibell, a frond-end engineer. you are my ![Visitor Count](https://profile-counter.glitch.me/yisibell/count.svg) visitor ❤❤❤!
+I'm yisibell, a frond-end engineer ❤❤❤!
 
 
 - 🚀 I use daily: ![](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
