@@ -58,9 +58,10 @@ I'm yisibell, a frond-end engineer ❤❤❤!
 ### Vue plugins
 
 - A composition wrapper for **vue(2)**, **vue-router(3)** and **vuex(3)**: [vue-composition-wrapper](https://github.com/yisibell/vue-composition-wrapper) ![](https://img.shields.io/github/stars/yisibell/vue-composition-wrapper?style=social)
-- A previewable image component for vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image) ![](https://img.shields.io/github/stars/yisibell/vue-previewable-image?style=social)
-- A svg symbol icon component for vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon) ![](https://img.shields.io/github/stars/yisibell/vue-symbol-icon?style=social)
-
+- A previewable image component for Vue: [vue-previewable-image](https://github.com/yisibell/vue-previewable-image) ![](https://img.shields.io/github/stars/yisibell/vue-previewable-image?style=social)
+- A svg symbol icon component for Vue: [vue-symbol-icon](https://github.com/yisibell/vue-symbol-icon) ![](https://img.shields.io/github/stars/yisibell/vue-symbol-icon?style=social)
+- Auto tooltip for Vue.js: [vue-autotooltip](https://github.com/yisibell/vue-autotooltip) ![](https://img.shields.io/github/stars/yisibell/vue-autotooltip?style=social)
+- 
 ### UI libraries
 
 - A questionnaire survey ui library for Vue.js: [aidol-questionnaire-ui](https://github.com/yisibell/aidol-questionnaire-ui) ![](https://img.shields.io/github/stars/yisibell/aidol-questionnaire-ui?style=social)
