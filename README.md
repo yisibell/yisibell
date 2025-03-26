@@ -76,6 +76,7 @@ I'm yisibell, a frond-end engineer ❤❤❤!
 - A http proxy module for **Nuxt(3)** powered by h3-proxy: [nuxt-proxy-request](https://github.com/yisibell/nuxt-proxy-request) ![](https://img.shields.io/github/stars/yisibell/nuxt-proxy-request?style=social)
 - A **Nuxt(2)** module to persist vuex state with cookie: [nuxt-persiststate-with-cookie](https://github.com/yisibell/nuxt-persiststate-with-cookie) ![](https://img.shields.io/github/stars/yisibell/nuxt-persiststate-with-cookie?style=social)
 - A **Nuxt(2)** module for using svg sprite icon: [nuxt-symbol-icons](https://github.com/yisibell/nuxt-symbol-icons) ![](https://img.shields.io/github/stars/yisibell/nuxt-symbol-icons?style=social)
+- A **Nuxt(3)** module for generate image sprite icon via `spritesmith`: [nuxt-spritesmith](https://github.com/yisibell/nuxt-spritesmith) ![](https://img.shields.io/github/stars/yisibell/nuxt-spritesmith?style=social)
 
 ### H3 event handler
 
